@@ -1,0 +1,15 @@
+h1{
+    color: red;
+}
+
+.button1{
+    background: url("images/nav_home.gif") no-repeat;
+    display: inline-block;
+    height: 80px;
+    width: 150px;
+}
+.button1:hover{
+    background: url("images/nav_home_act.gif") no-repeat;
+    height: 80px;
+    width: 150px;
+}
